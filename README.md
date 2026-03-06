@@ -27,7 +27,7 @@ git clone https://github.com/soumya020/network-monitor.git
 cd network-monitor
 
 # 2. Install dependencies
-pip install -r requirements.txt
+scapy>=2.5.0
 
 # 3. Run the tool (as admin/root)
 # On Windows (run terminal as Administrator):
