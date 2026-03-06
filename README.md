@@ -1,7 +1,7 @@
 # network-monitor
 A GUI-based network packet monitoring tool built with Python
 
-Network Monitoring Tool
+Network Monitoring Tool:- 
 A lightweight, GUI-based network packet sniffer built with Python. Capture, view, and export live network traffic in real time.
 
 ✨ Features
@@ -23,7 +23,7 @@ Run as Administrator / root (required for packet sniffing)
 
 Installation
 bash# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/network-monitor.git
+git clone https://github.com/soumya020/network-monitor.git
 cd network-monitor
 
 # 2. Install dependencies
